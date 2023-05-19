@@ -6,7 +6,7 @@ The Dutch Killer Robot is coming for you, the last dodo. You must dash to surviv
 
 ## About
 
-Destroy the robot by using rocket and attacking it's control center!
+Destroy the robot by using the rockets and attacking its control center!
 
 ## Controls
 
